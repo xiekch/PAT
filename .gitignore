@@ -1,0 +1,8 @@
+*.exe
+*.class
+.vscode
+*.out
+t.*
+Test.*
+test.*
+META-INF/
